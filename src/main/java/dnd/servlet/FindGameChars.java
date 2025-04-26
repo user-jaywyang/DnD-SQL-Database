@@ -1,3 +1,7 @@
+/**
+ * @author Jay Yang
+ */
+
 package dnd.servlet;
 import dnd.dal.*;
 import javax.servlet.annotation.WebServlet;

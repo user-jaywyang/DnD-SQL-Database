@@ -1,3 +1,7 @@
+/**
+ * @author Jay Yang
+ */
+
 package dnd.dal;
 
 import dnd.model.Currency;

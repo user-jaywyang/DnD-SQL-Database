@@ -1,4 +1,8 @@
- package dnd;
+/**
+* @author Jay Yang
+*/
+
+package dnd;
 
 import dnd.dal.*;
 import dnd.model.*;

@@ -1,3 +1,7 @@
+/**
+ * @author Jay Yang
+ */
+
 package dnd;
 
 import dnd.dal.*;

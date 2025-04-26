@@ -1,3 +1,7 @@
+/**
+ * @author Jay Yang
+ */
+
 package dnd.model;
 
 import java.util.Objects;

@@ -1,3 +1,7 @@
+/**
+ * @author Jay Yang
+ */
+
 package dnd.model;
 
 public class Consumable extends ItemPrototype{
